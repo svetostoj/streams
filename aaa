@@ -1,3 +1,11 @@
 Client id
 
 1064902706758-56cqk1olkv8su2jomebuqlk7vso0anku.apps.googleusercontent.com
+
+github.com/zalmoxisus/redux-devtools-extension
+
+http://localhost:3000/?debug_session=test
+
+?debug_session=test
+
+npm install redux-form@8.1.0
