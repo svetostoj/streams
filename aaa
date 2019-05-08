@@ -9,3 +9,18 @@ http://localhost:3000/?debug_session=test
 ?debug_session=test
 
 npm install redux-form@8.1.0
+
+https://redux-form.com/8.1.0/examples/
+
+http://npmjs.com/package/json-server
+
+streams -> mkdir api -> npm init
+npm install --save json-server
+-> create db.json and enter streams
+{
+    "streams": []
+}
+-> enter into package.json
+"start": "json-server -p 3001 -w db.json"
+
+https://stephengrider.github.io/JSPlaygrounds/
